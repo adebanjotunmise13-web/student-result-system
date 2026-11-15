@@ -1,0 +1,18 @@
+[
+    {
+        "student_id": "24/sci01/004",
+        "name": "Adebanjo Oluwatunmise Salem",
+        "class_name": "Computer Science",
+        "gender": "Male",
+        "dob": "2007-07-26",
+        "scores": {
+            "English": 84.0,
+            "Mathematics": 90.0,
+            "Physics": 84.0,
+            "Chemistry": 43.0,
+            "Biology": 21.0,
+            "Civic Education": 93.0
+        },
+        "date_entered": "2026-11-15 17:58:51"
+    }
+]
